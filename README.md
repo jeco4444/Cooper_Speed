@@ -1,16 +1,5 @@
-# cooper_speed
+# Cooper Speed
 
-A new Flutter project.
+Tutti i diritti d'autore su questo codice sono riservati. Nessuna parte di questo software può essere riprodotta, distribuita o utilizzata in alcuna forma o con alcun mezzo senza il previo consenso scritto dell'autore.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+All copyright rights to this code are reserved. No part of this software may be reproduced, distributed, or used in any form or by any means without the prior written permission of the author.
