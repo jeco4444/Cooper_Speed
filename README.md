@@ -8,7 +8,7 @@ This is a Flutter application that allows for timing and recording of speed for 
 Utilizzo: 
   Oltre all'utilizzo in forma finale con installazione in apk, per avviare l'app in debug mode bisogna:
   1. installare flutter;
-  2. inviare il comando 'flutter run' nella cartella principale del progetto;
+  2. inviare il comando "flutter run" nella cartella principale del progetto;
 
 # 
 
